@@ -1,0 +1,2 @@
+# jsStaring
+code for js
